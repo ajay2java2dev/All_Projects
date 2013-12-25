@@ -1,4 +1,4 @@
-All Projects is a repository containing all the rough works i have done inorder for me tbe called as successfull software developer.
+All Projects is a repository contain the rough works I have done throughout my career.
 This project contains many sample java applications in Spring, Hibernate, Google app engine etc and has used many front end technologies.
 
 
